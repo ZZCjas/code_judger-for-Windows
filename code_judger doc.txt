@@ -1,0 +1,12 @@
+简体中文:
+打开code_judger for Windows.bat,
+输入命令:
+code_judger.exe （要运行的程序）(输出的文件）（答案文件）
+繁體中文:
+打開code_judger for Windows.bat，
+輸入命令:
+code_judger.exe （要執行的程式）（輸出的檔案）（答案檔）
+English:
+Open  code_judger for Windows.bat,
+Enter the command:
+code_judger.exe  program to run  output file  answer file
